@@ -17,6 +17,8 @@ This is where the desktop environment goes, if I could only upload a folder.
 This is where internet stuff goes.
 ### The `security` folder
 This is really important. That is where everything security related goes.
+### The `docs` folder
+This is where the GH Pages site is being hosted from, for this fork.
 ***
 ## Contributing
 Contributing is covered in most other repositories, it applies to this. Thank you!
